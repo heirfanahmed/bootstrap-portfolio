@@ -23,7 +23,6 @@ Create portfolio layout using Bootstrap CSS Framework. The layout should be as b
     Navigation bar
 
     Navigation menu at the top either from bootstrap's navbar or my own.
-    I am doing it from Bootstrap as this assignment was assigned after learning Bootstrap.
 
     Include links that is applicable for my portfolio.
 

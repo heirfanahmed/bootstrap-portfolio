@@ -1,0 +1,51 @@
+body {
+    margin: 25px;
+    padding: 5px;
+    line-height: 2;
+  }
+
+h1 {
+    margin: 0;
+}
+
+.header {
+    display:flex;
+    width: 100%;
+    align-items: center;
+    font-size: 24px;
+    padding: 2px;
+  }
+  
+#navigation {
+    display: flex;
+    width: 75%;
+    align-items: align-right;
+    justify-content: space-evenly;
+    cursor: pointer;
+    text-decoration: underline;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+  }
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    margin-top: 20px;
+    font-style: italic;    
+  }
+
+  .card {
+    display: display;
+  }
+
+  a :hover {
+    background-color: green;
+    box-shadow: 5px 5px 5px 5px red;
+  }
+
+  h3 {
+    font-style: italic;
+    font-size: 20px;
+    color: blue;
+  }
